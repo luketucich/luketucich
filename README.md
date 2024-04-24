@@ -1,5 +1,5 @@
 <h1> Hello, I'm Luke 👋</h1>
-<h1> Currently, I'm learning:
+<h1> Currently, I'm learning:<br />
   <br />
 <a href="https://skillicons.dev" rel="nofollow">
 
