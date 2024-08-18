@@ -1,4 +1,6 @@
 <h1> Hi, I'm Luke 👋</h1>
+
+<h2> I'm pursuing at BS in CS at UNC Charlotte.</h2>
 <h2> Here's some of my skills:<br />
   <br />
 <a href="https://skillicons.dev" rel="nofollow">
