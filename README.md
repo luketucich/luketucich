@@ -1,5 +1,5 @@
 <h1> Hi, I'm Luke 👋</h1>
-<h2> Currently, I'm learning:<br />
+<h2> Here's some of my skills:<br />
   <br />
 <a href="https://skillicons.dev" rel="nofollow">
 
