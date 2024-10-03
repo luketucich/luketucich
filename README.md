@@ -1,9 +1,13 @@
-<h1> Hi, I'm Luke 👋</h1>
+# Hey, I'm Luke 👋
 
-<h2> I'm pursuing at BS in CS at UNC Charlotte.</h2>
-<h2> Here's what I'm learning:<br />
-  <br />
-<a href="https://skillicons.dev" rel="nofollow">
+### I'm pursuing a BS in Computer Science at UNC Charlotte.
+### Here's what I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,godot,npm,webpack,react)](https://skillicons.dev)
-</a></h2>
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,webpack)](https://skillicons.dev)
+
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=godot,npm)](https://skillicons.dev)
