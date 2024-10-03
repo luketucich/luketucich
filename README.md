@@ -1,6 +1,6 @@
 # Hey, I'm Luke 👋
 
-### I'm pursuing a BS in Computer Science at UNC Charlotte.
+### I'm pursuing a BS in Computer Science at UNC Charlotte 🟢⚪
 ### Here's what I'm learning:
 
 #### Languages
