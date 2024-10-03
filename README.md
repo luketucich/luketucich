@@ -10,4 +10,4 @@
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=react,webpack)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=godot,npm,vscode,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=godot,npm,vscode,git,mysql)](https://skillicons.dev)
