@@ -5,5 +5,5 @@
   <br />
 <a href="https://skillicons.dev" rel="nofollow">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,godot,npm,webpack,react)](https://skillicons.dev)
 </a></h2>
