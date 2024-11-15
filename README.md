@@ -28,6 +28,8 @@
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white)
 
+---
+### [Check out](https://luketucich.github.io/Battleship/) my newest project, Battleship 🚢
 
 
 
