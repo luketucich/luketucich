@@ -16,7 +16,6 @@
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 
 ---
 
@@ -25,7 +24,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
+
 
 ---
 ### [Check out](https://github.com/luketucich/cineverse) my newest project, Cineverse 🎥
