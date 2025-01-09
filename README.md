@@ -28,7 +28,7 @@
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
-### [Check out](https://github.com/luketucich/ace-the-deck) my newest project, Ace the Deck ♦️
+### [Check out](https://github.com/luketucich/cineverse) my newest project, Cineverse 🎥
 
 
 
