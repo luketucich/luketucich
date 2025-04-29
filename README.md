@@ -30,17 +30,13 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="36" alt="Prisma"/>
 </p>
 
-<!-- Testing -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Vitest-677DF2?style=for-the-badge&logo=vitest&logoColor=white" height="36" alt="Vitest"/>
-</p>
-
-<!-- Developer Tools -->
+<!-- Developer Tools & Testing -->
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" alt="Git"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="36" alt="Vite"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="36" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-677DF2?style=for-the-badge&logo=vitest&logoColor=white" height="36" alt="Vitest"/>
 </p>
 
 <br/>
