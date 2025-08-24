@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="36" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="36" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="36" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="36" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="36" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="36" alt="Golang"/>
 </p>
 
 <!-- Frontend Frameworks & Styling -->
@@ -44,7 +44,8 @@
 <h2 align="center">🚀 Latest Project</h2>
 
 <p align="center">
-  <a href="https://deciphergame.com/">
-    <img src="https://img.shields.io/badge/Decipher–Play%20Now-2bbc8a?style=for-the-badge&logo=unity&logoColor=white" height="40" alt="Decipher"/>
+  <a href="https://github.com/luketucich/terminal-tomato">
+    <img src="https://img.shields.io/badge/Terminal--Tomato-FF6347?style=for-the-badge&logo=clockify&logoColor=white" height="40" alt="Terminal-Tomato"/>
   </a>
 </p>
+
