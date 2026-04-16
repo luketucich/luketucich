@@ -16,8 +16,8 @@ i build fast with ai-assisted workflows and care about making things people use
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,supabase,postgres" alt="tech stack" />
-<br><br>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,supabase,postgres&perline=5" alt="tech stack" />
+<br>
 <sub><b>typescript · react · node.js · supabase · postgres</b></sub>
 
 <br><br>
