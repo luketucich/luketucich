@@ -1,51 +1,27 @@
-<h1 align="center">Hey, I’m Luke 👋</h1>
-<h3 align="center">🎓 BS in Computer Science @ UNC Charlotte 🟢⚪</h3>
+<div align="center">
 
-<br/>
+<br>
 
-<h2 align="center">🔧 Tech Stack</h2>
+### hey, i'm luke 👋
 
-<!-- Languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="36" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="36" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="36" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="36" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="36" alt="Golang"/>
-</p>
+<br>
 
-<!-- Frontend Frameworks & Styling -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="36" alt="Expo"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="36" alt="Tailwind CSS"/>
-</p>
+**cs @ unc charlotte** · graduating dec 2026  
+**incoming swe intern** @ [walmart global tech](https://tech.walmart.com/) · summer '26
 
-<!-- Backend & ORM -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="36" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="36" alt="Express"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="36" alt="Prisma"/>
-</p>
+<br>
 
-<!-- Developer Tools & Testing -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" alt="Git"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="36" alt="Vite"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="36" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Vitest-677DF2?style=for-the-badge&logo=vitest&logoColor=white" height="36" alt="Vitest"/>
-</p>
+solo app developer · shipped a mobile app to **3k+ users**  
+i build fast with ai-assisted workflows and care about making things people use
 
-<br/>
+<br><br>
 
-<h2 align="center">🚀 Latest Project</h2>
+<img src="https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/postgres-000000?style=flat-square&logo=postgresql&logoColor=4169E1" height="25" />
 
-<p align="center">
-  <a href="https://github.com/luketucich/terminal-tomato">
-    <img src="https://img.shields.io/badge/Terminal--Tomato-FF6347?style=for-the-badge&logo=clockify&logoColor=white" height="40" alt="Terminal-Tomato"/>
-  </a>
-</p>
+<br><br>
 
+</div>
