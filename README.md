@@ -16,11 +16,7 @@ i build fast with ai-assisted workflows and care about making things people use
 
 <br><br>
 
-<img src="https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/postgres-000000?style=flat-square&logo=postgresql&logoColor=4169E1" height="25" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,supabase,postgres&theme=dark" alt="tech stack" />
 
 <br><br>
 
