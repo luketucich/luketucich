@@ -11,7 +11,7 @@
 
 <br>
 
-solo app developer · shipped a mobile app to **3k+ users**  
+solo app developer · shipped a mobile app to **6k+ users**  
 i build fast with ai-assisted workflows and care about making things people use
 
 <br><br>
